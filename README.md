@@ -42,4 +42,6 @@
 
 Проверить работоспособность, исправить ошибки, исправленный Pipeline вложить в репозиторий в файл ScriptedJenkinsfile.
 
+[ScriptedJenkinsfile](https://github.com/SSitkarev/ci-04-jenkins/blob/main/ScriptedJenkinsfile)
+
 Отправить ссылку на репозиторий с ролью и Declarative Pipeline и Scripted Pipeline.
