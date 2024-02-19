@@ -32,6 +32,8 @@
 
 Создать Multibranch Pipeline на запуск Jenkinsfile из репозитория.
 
+![Задание1](https://github.com/SSitkarev/ci-04-jenkins/blob/main/img/14.jpg)
+
 Создать Scripted Pipeline, наполнить его скриптом из pipeline.
 
 Внести необходимые изменения, чтобы Pipeline запускал ansible-playbook без флагов --check --diff, если не установлен параметр при запуске джобы (prod_run = True). По умолчанию параметр имеет значение False и запускает прогон с флагами --check --diff.
