@@ -1,0 +1,15 @@
+---
+- name: install molecule
+  hosts: jenkins-agent-01
+  tasks:
+    - name: molecule
+      become: true
+      pip:
+        executable: pip
+        name:
+          - selinux
+          - ansible==2.10
+          - molecule==3.4.0
+          - molecule-docker==1.1.0
+          - requests==2.24.0
+        state: present
