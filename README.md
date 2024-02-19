@@ -20,7 +20,7 @@
 
 ![Задание1](https://github.com/SSitkarev/ci-04-jenkins/blob/main/img/11.jpg)
 
-![Задание1](https://github.com/SSitkarev/ci-04-jenkins/blob/main/img/12.jpg)
+![Задание1](https://github.com/SSitkarev/ci-04-jenkins/blob/main/img/122.jpg)
 
 Сделать Declarative Pipeline Job, который будет запускать molecule test из любого вашего репозитория с ролью.
 
