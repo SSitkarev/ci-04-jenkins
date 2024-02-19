@@ -36,6 +36,8 @@
 
 Создать Scripted Pipeline, наполнить его скриптом из pipeline.
 
+![Задание1](https://github.com/SSitkarev/ci-04-jenkins/blob/main/img/15.jpg)
+
 Внести необходимые изменения, чтобы Pipeline запускал ansible-playbook без флагов --check --diff, если не установлен параметр при запуске джобы (prod_run = True). По умолчанию параметр имеет значение False и запускает прогон с флагами --check --diff.
 
 Проверить работоспособность, исправить ошибки, исправленный Pipeline вложить в репозиторий в файл ScriptedJenkinsfile.
